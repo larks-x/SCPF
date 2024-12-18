@@ -20,7 +20,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Win32\" />
     <Folder Include="X11\" />
     <Folder Include="Wayland\" />
     <Folder Include="Cocoa\" />
